@@ -21,29 +21,24 @@ pip install Flask
 1. Clonez ce dépôt :
 
    ```bash
-   ```
+   git clone https://github.com/zhadine2002/Stage_Workspace.git
+   
 
-git clone \<URL\_DU\_REPO>
-cd \<NOM\_DU\_REPO>
 
-````
 
 2. Installez les dépendances :
    ```bash
-pip install Flask
-````
+   pip install Flask
+
 
 3. Lancez l'application :
 
    ```bash
-   ```
+   python app.py
 
-python app.py
-
-````
 
 4. Ouvrez votre navigateur et rendez-vous à l'adresse :
 
 ```bash
 http://127.0.0.1:5000
-````
+
